@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AMShop_PTUD/src"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="AMShop_PTUD/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="AMShop_PTUD/build/classes"/>
+</classpath>
